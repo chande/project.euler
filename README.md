@@ -13,3 +13,7 @@ How many Sundays fell on the first of the month during the twentieth century (1 
 Problem 20:
 -----------------------------------------------------
 Find the sum of the digits in the number 100!
+
+Problem 21:
+-----------------------------------------------------
+Evaluate the sum of all the amicable numbers under 10000.
