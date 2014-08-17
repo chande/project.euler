@@ -26,3 +26,7 @@ What is the total of all the name scores in the file?
 Problem 25:
 -----------------------------------------------------
 What is the first term in the Fibonacci sequence to contain 1000 digits?
+
+Problem 48:
+-----------------------------------------------------
+Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
